@@ -1,3 +1,9 @@
+########
+# Author: Samuel Le
+# Date: October 2, 2019
+# Course: Statistical Natural Language Processing
+# Purpose: Determine word sense using Naive Bayes
+########
 import json
 import sys
 import string
