@@ -1,2 +1,2 @@
 #!/bin/bash
-python CreateContext.py car bike
+python CreateContext.py car bike 10
